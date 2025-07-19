@@ -36,26 +36,44 @@ Android-Projects-Archive/
 ## 🛠️ Technologies Used
 ---
 
+### **Mobile Development**
+- **Android SDK**: Activities, Fragments, Services, Broadcast Receivers, Content Providers.
+- **Programming Languages**: Proficient in **Java** and **Kotlin**.
+- **Asynchronous Programming**: Advanced **Kotlin Coroutines** and structured concurrency.
+- **Task Scheduling**: **WorkManager**, **JobScheduler**, **AlarmManager**.
 
+---
 
-- **Android SDK**: Core framework for Android application development.
-- **Programming Languages**: Java and Kotlin.
-- **Network Communication**: Volley and Retrofit for seamless API integration.
-- **Asynchronous Programming**: Coroutines for efficient background tasks.
-- **Task Management**: WorkManager for handling background jobs.
-- **Error Logging**: Firebase Crashlytics for real-time crash reporting.
-- **Cloud Storage**: AWS for storing data and resources.
-- **User Interface Design**: 
-  - XML for creating layouts.
-  - Material Design principles for intuitive and visually appealing UI.
-- **Local Storage**: SQLite for lightweight database needs.
-- **Firebase Services**:
-  - Realtime Database for dynamic data handling.
-  - Authentication for secure user access.
-- **System Features**:
-  - Broadcast Receiver for event-based programming.
-  - Google Maps API for location-based functionalities.
-- **Version Control**: Git for managing and collaborating on code.
+### **Network, Notifications & Backend**
+- **Network Communication**: **Retrofit** (with custom CallAdapters), **Volley**, RESTful APIs.
+- **Push Notifications**: **Firebase Cloud Messaging (FCM)** for real-time user engagement.
+- **Authentication & Security**: **OAuth 2.0**, token-based APIs, **Firebase Authentication**.
+- **Cloud & Backend**: **AWS (S3, EC2)**, **Firebase Realtime Database**, cloud-based storage.
+
+---
+
+### **UI/UX & Navigation**
+- **Layout & Design**: **XML**, **Material Design**, responsive layouts, custom views.
+- **Animations & Transitions**: Smooth UI interactions and state management.
+- **Deep Linking**: **App Links** and **custom deep links** for seamless navigation.
+- **Localization**: Multi-language support and dynamic UI updates.
+
+---
+
+### **Data Management**
+- **Local Storage**: **SQLite**, **Room Database**, **SharedPreferences**.
+- **Media Handling**: Audio recording, foreground services, and optimized image loading with **Coil**, **Glide**, **Picasso**.
+- **Sensor Data**: Experience with accelerometer, step counter, light sensors, and more.
+
+---
+
+### **Tools & Practices**
+- **Version Control**: **Git** workflows, branching strategies, CI/CD.
+- **Error Tracking**: **Firebase Crashlytics** and advanced Logcat debugging.
+- **Dependency Injection**: **Koin** (familiar with **Dagger-Hilt**).
+- **Testing**: **JUnit** for unit tests and **Espresso** for UI tests.
+- **System Design**: Scalable architectures (MVVM, Clean Architecture).
+
 
 
 
