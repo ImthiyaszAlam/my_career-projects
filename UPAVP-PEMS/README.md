@@ -4,7 +4,7 @@
 
 This Android application was developed for EMO officers under the **Avas Vikas Yojna** in Lucknow, Uttar Pradesh. The app allows officers to track properties created by the UP Government, upload property images, and capture the property's location using GPS. The application provides different features for **Admin** and **EMO** users, ensuring smooth data management and property tracking.
 
-## Project Overview
+## Project 
 
 ### Purpose:
 The app is designed to enable **EMO officers** to:
